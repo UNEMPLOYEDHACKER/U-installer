@@ -75,7 +75,8 @@ if [ ! -e $ROOTFS_DIR/.installed ]; then
 fi
 
 clear
-echo "Foxytoux Sub"
+echo "FALCON SECURITY"
+echo "UNEMPLOYEDHACKER"
 echo "------------------------"
 
 $ROOTFS_DIR/usr/local/bin/proot \
